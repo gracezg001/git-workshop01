@@ -1,4 +1,4 @@
-ThisBuild / version := "1.0.2"
+ThisBuild / version := "1.0.3"
 
 ThisBuild / scalaVersion := "2.12.17"
 
@@ -13,6 +13,6 @@ libraryDependencies ++= Seq(
 
   "org.postgresql" % "postgresql" % "42.5.1"  ,
 
-  //This is for log
+  //  This is for my log
   "ch.qos.logback" % "logback-classic" % "1.2.3"
 )

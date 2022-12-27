@@ -1,2 +1,2 @@
 # git-get-started
-verison: 1.0.2
+verison: 1.0.3
